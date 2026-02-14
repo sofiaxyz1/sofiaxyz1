@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Sofia Castelli
 
-<!--
-**sofiaxyz1/sofiaxyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Mackenzie University  
+🔐 Focused on Cybersecurity & Data Analysis  
+💻 Passionate about Python, Linux and Security Labs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a Computer Science undergraduate with strong interest in cybersecurity, system analysis and problem-solving.  
+Currently building projects focused on security automation, data processing and backend logic.
+
+I enjoy structured problem solving, clean code and continuous improvement.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- C
+- SQL
+- Java
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux
+- VSCode
+- MySQL
+- Wireshark
+- Docker (learning)
+
+---
+
+## 📌 Featured Projects
+
+🔹 [Project Name](link) – Short description  
+🔹 [Project Name](link) – Short description  
+🔹 [Project Name](link) – Short description  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (colocar link)
+- Email: (se quiser colocar)
