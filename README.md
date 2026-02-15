@@ -16,7 +16,7 @@ I'm currently looking for internship opportunities in IT, where I can grow and c
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,c,java,linux,git,github,mysql,docker,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,c,linux,git,github,mysql,docker,vscode)
 
 ---
 
