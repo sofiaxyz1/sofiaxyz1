@@ -23,9 +23,9 @@ I'm currently looking for internship opportunities in IT, where I can grow and c
 
 ## 📌 Featured Projects
 
-🔹 [Project Name](link) – Short description  
-🔹 [Project Name](link) – Short description  
-🔹 [Project Name](link) – Short description  
+🔹 
+🔹 
+🔹 
 
 ---
 
