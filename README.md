@@ -14,7 +14,7 @@
 
 ## 📌 Featured Projects
 
-🔹 
+🔹 https://github.com/sofiaxyz1/project-log-analyser
 🔹 
 🔹 
 
