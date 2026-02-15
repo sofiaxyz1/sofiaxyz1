@@ -41,5 +41,5 @@ I enjoy structured problem solving, clean code and continuous improvement.
 
 ## 📫 Contact
 
-- LinkedIn: (colocar link)
-- Email: (se quiser colocar)
+- LinkedIn: (https://www.linkedin.com/in/sofia-castelli-918580296/)
+- Email: (castelli.sofiaxyz@gmail.com)
