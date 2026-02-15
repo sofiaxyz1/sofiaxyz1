@@ -15,19 +15,7 @@ I enjoy structured problem solving, clean code and continuous improvement.
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Python
-- C
-- SQL
-- Java
-
-**Tools & Technologies**
-- Git & GitHub
-- Linux
-- VSCode
-- MySQL
-- Wireshark
-- Docker (learning)
+![My Skills](https://skillicons.dev/icons?i=python,c,java,linux,git,github,mysql,docker,vscode)
 
 ---
 
