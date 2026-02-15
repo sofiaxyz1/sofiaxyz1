@@ -1,7 +1,6 @@
 🎓 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie  
 🔐 Interesse em Cibersegurança, Análise de Dados & Desenvolvimento Backend  
 💻 Foco em construir sistemas estruturados e seguros
-
 ---
 
 
