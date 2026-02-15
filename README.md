@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sofia Castelli
-
 🎓 Computer Science student at Mackenzie University  
 🔐 Focused on Cybersecurity & Data Analysis  
 💻 Passionate about Python, Linux and Security Labs  
