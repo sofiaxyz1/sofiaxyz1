@@ -1,15 +1,16 @@
-🎓 Computer Science student at Mackenzie University  
-🔐 Focused on Cybersecurity & Data Analysis  
-💻 Passionate about Python, Linux and Security Labs  
+🎓 Computer Science Student  
+🔐 Interested in Cybersecurity & Backend Development  
+💻 Passionate about building structured and secure systems  
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Science undergraduate with strong interest in cybersecurity, system analysis and problem-solving.  
-Currently building projects focused on security automation, data processing and backend logic.
+I'm a Computer Science undergraduate currently focused on developing strong foundations in software engineering, cybersecurity and system architecture.
 
-I enjoy structured problem solving, clean code and continuous improvement.
+I enjoy solving problems, writing clean code and continuously improving my technical skills.
+
+I'm currently looking for internship opportunities in IT, where I can grow and contribute to real-world projects.
 
 ---
 
