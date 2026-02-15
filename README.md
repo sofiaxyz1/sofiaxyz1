@@ -1,22 +1,13 @@
-🎓 Computer Science Student  
-🔐 Interested in Cybersecurity & Backend Development  
-💻 Passionate about building structured and secure systems  
+🎓 Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
+🔐 Interesse em Cibersegurança, Análise de Dados & Desenvolvimento Backend 
+💻 Foco em construir sistemas estruturados e seguros
 
 ---
 
-## 🚀 About Me
-
-I'm a Computer Science undergraduate currently focused on developing strong foundations in software engineering, cybersecurity and system architecture.
-
-I enjoy solving problems, writing clean code and continuously improving my technical skills.
-
-I'm currently looking for internship opportunities in IT, where I can grow and contribute to real-world projects.
-
----
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,c,linux,git,github,mysql,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,c,linux,git,github,mysql,vscode,swift)
 
 
 ---
